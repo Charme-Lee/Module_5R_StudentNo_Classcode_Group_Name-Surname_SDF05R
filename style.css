@@ -62,17 +62,17 @@ img {
   color: whitesmoke;
   text-align: center;
   border: none;
-  border-radius: 5px;
+  border-radius: 50px;
   cursor: pointer;
-  transition: background-color 0.4s, transform 0.3s;
+  transition: background-color 0.3s, transform 0.3s;
 }
 
 .btn-1:hover {
-  background-color: #00cccc;
+  background-color: #a6e9ed;
   transform: scale(1.05);
-  color: #faf3e7;
+  color: #580101;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .btn-1:active {
@@ -193,8 +193,9 @@ img {
 }
 
 .custom-btn2:hover {
-  background-color: #59bcc1;
-  transform: skewX(-15deg);
+  background-color: #a6e9ed;
+  transform: scale(1.02);
+  color: #580101;
 }
 
 .custom-btn2:active {
@@ -205,6 +206,6 @@ img {
 
 .custom-btn2:focus {
   outline: none;
-  box-shadow: 0 0 0 2px rgb(88, 1, 1);
+  box-shadow: 0 0 0 2px #580101;
   cursor: not-allowed;
 }
