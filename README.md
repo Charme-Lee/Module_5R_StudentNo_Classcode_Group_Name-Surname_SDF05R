@@ -19,22 +19,32 @@ By completing this project, you will learn to:
 
 1. **Starter Code**: Clone the starter code from GitHub for your project. The HTML structure is provided, and you'll focus on adding styles in the `style.css` file.
 
-    - Starter code can be found here: https://github.com/CodeSpace-Academy/Module_5R_StudentNo_Classcode_Group_Name-Surname_SDF05R
+- Starter code can be found here: https://github.com/CodeSpace-Academy/Module_5R_StudentNo_Classcode_Group_Name-Surname_SDF05R
 
-2. **Write your CSS Styles**: Create your animations from scratch. Need a hint of inspiration? You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX). 
+2. **Write your CSS Styles**: Create your animations from scratch. Need a hint of inspiration? You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX).
 
-3. **Prepare Your Repository**: 
-    - Save all chanes and update your GitHub repository with the final versions of all files.
-    - Include a `README.md` file that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
-    - Ensure your repository is set to public so it can be accessed by your code coach.
+3. **Prepare Your Repository**:
+
+   - Save all chanes and update your GitHub repository with the final versions of all files.
+   - Include a `README.md` file that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
+   - Ensure your repository is set to public so it can be accessed by your code coach.
 
 4. **Submit on LMS**:
-    - Submit the link to your GitHub repository on the LMS under the project tab.
+   - Submit the link to your GitHub repository on the LMS under the project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
 
-
 ## Submission Guidelines
+
 - Submit the link to your GitHub repository on the LMS under the project tab.
 
 Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+
+## Loom Video
+
+- [Checkout my code overview.](https://www.loom.com/share/4138a0bd62984f1cb9139801a0bb1322?sid=a426d315-1c6f-42ab-8123-c3271c8ca4f3)
+
+## Additional Resources (Really helpful)
+
+- [CSS Button Style](https://www.freecodecamp.org/news/css-button-style-hover-color-and-background/)
+- [CSS Button Styling](https://www.programiz.com/css/button-styling)
