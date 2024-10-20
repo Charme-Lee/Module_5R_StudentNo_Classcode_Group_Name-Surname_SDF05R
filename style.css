@@ -174,3 +174,37 @@ img {
   transform: scale(1.02);
   box-shadow: 5px 5px 10px rgba(17, 17, 16, 0.3);
 }
+
+/* 
+========================
+ BUTTON TWO
+========================
+*/
+.custom-btn2 {
+  padding: 0.5em 1.5em;
+  border: none;
+  border-radius: 56px;
+  font-family: "Josefin Slab", serif;
+  color: white;
+  background-color: #0c9090;
+  cursor: pointer;
+  font-size: 13px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-btn2:hover {
+  background-color: #59bcc1;
+  transform: skewX(-15deg);
+}
+
+.custom-btn2:active {
+  transform: scale(0.95);
+  color: #0f1111;
+  background-color: #b4c1c2;
+}
+
+.custom-btn2:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgb(88, 1, 1);
+  cursor: not-allowed;
+}
